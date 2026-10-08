@@ -1,0 +1,2290 @@
+[
+  {
+    "id": 1,
+    "description": "Powers up Grass-type moves when the Pokémon’s HP is low.",
+    "name": {
+      "english": "Overgrow",
+      "french": "Engrais"
+    }
+  },
+  {
+    "id": 2,
+    "description": "Boosts the Pokémon’s Speed stat in harsh sunlight.",
+    "name": {
+      "english": "Chlorophyll",
+      "french": "Chlorophylle"
+    }
+  },
+  {
+    "id": 3,
+    "description": "Powers up Fire-type moves when the Pokémon’s HP is low.",
+    "name": {
+      "english": "Blaze",
+      "french": "Brasier"
+    }
+  },
+  {
+    "id": 4,
+    "description": "In harsh sunlight, the Pokémon’s Sp. Atk stat is boosted, but its HP decreases every turn.",
+    "name": {
+      "english": "Solar Power",
+      "french": "Force Soleil"
+    }
+  },
+  {
+    "id": 5,
+    "description": "Powers up Water-type moves when the Pokémon’s HP is low.",
+    "name": {
+      "english": "Torrent",
+      "french": "Torrent"
+    }
+  },
+  {
+    "id": 6,
+    "description": "The Pokémon gradually regains HP in rain.",
+    "name": {
+      "english": "Rain Dish",
+      "french": "Cuvette"
+    }
+  },
+  {
+    "id": 7,
+    "description": "Protective dust shields the Pokémon from the additional effects of moves.",
+    "name": {
+      "english": "Shield Dust",
+      "french": "Écran Poudre"
+    }
+  },
+  {
+    "id": 8,
+    "description": "Enables a sure getaway from wild Pokémon.",
+    "name": {
+      "english": "Run Away",
+      "french": "Fuite"
+    }
+  },
+  {
+    "id": 9,
+    "description": "The Pokémon may cure its own status conditions by shedding its skin.",
+    "name": {
+      "english": "Shed Skin",
+      "french": "Mue"
+    }
+  },
+  {
+    "id": 10,
+    "description": "The Pokémon’s compound eyes boost its accuracy.",
+    "name": {
+      "english": "Compound Eyes",
+      "french": "Œil Composé"
+    }
+  },
+  {
+    "id": 11,
+    "description": "The Pokémon can use “not very effective” moves to deal regular damage.",
+    "name": {
+      "english": "Tinted Lens",
+      "french": "Lentiteintée"
+    }
+  },
+  {
+    "id": 12,
+    "description": "Powers up Bug-type moves when the Pokémon’s HP is low.",
+    "name": {
+      "english": "Swarm",
+      "french": "Essaim"
+    }
+  },
+  {
+    "id": 13,
+    "description": "If the Pokémon’s attack lands a critical hit, the attack is powered up even further.",
+    "name": {
+      "english": "Sniper",
+      "french": "Sniper"
+    }
+  },
+  {
+    "id": 14,
+    "description": "The Pokémon’s keen eyes prevent its accuracy from being lowered.",
+    "name": {
+      "english": "Keen Eye",
+      "french": "Regard Vif"
+    }
+  },
+  {
+    "id": 15,
+    "description": "Boosts the Pokémon’s evasiveness if it is confused.",
+    "name": {
+      "english": "Tangled Feet",
+      "french": "Pieds Confus"
+    }
+  },
+  {
+    "id": 16,
+    "description": "Prevents the Pokémon from having its Defense stat lowered.",
+    "name": {
+      "english": "Big Pecks",
+      "french": "Cœur de Coq"
+    }
+  },
+  {
+    "id": 17,
+    "description": "It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.",
+    "name": {
+      "english": "Guts",
+      "french": "Cran"
+    }
+  },
+  {
+    "id": 18,
+    "description": "Boosts the Pokémon’s Attack stat but lowers its accuracy.",
+    "name": {
+      "english": "Hustle",
+      "french": "Agitation"
+    }
+  },
+  {
+    "id": 19,
+    "description": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
+    "name": {
+      "english": "Intimidate",
+      "french": "Intimidation"
+    }
+  },
+  {
+    "id": 20,
+    "description": "Unnerves opposing Pokémon and makes them unable to eat Berries.",
+    "name": {
+      "english": "Unnerve",
+      "french": "Tension"
+    }
+  },
+  {
+    "id": 21,
+    "description": "The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.",
+    "name": {
+      "english": "Static",
+      "french": "Statik"
+    }
+  },
+  {
+    "id": 22,
+    "description": "The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
+    "name": {
+      "english": "Lightning Rod",
+      "french": "Paratonnerre"
+    }
+  },
+  {
+    "id": 23,
+    "description": "Boosts the Pokémon’s evasiveness in a sandstorm.",
+    "name": {
+      "english": "Sand Veil",
+      "french": "Voile Sable"
+    }
+  },
+  {
+    "id": 24,
+    "description": "Boosts the Pokémon’s Speed stat in a sandstorm.",
+    "name": {
+      "english": "Sand Rush",
+      "french": "Baigne Sable"
+    }
+  },
+  {
+    "id": 25,
+    "description": "Contact with the Pokémon may poison the attacker.",
+    "name": {
+      "english": "Poison Point",
+      "french": "Point Poison"
+    }
+  },
+  {
+    "id": 26,
+    "description": "The Pokémon’s competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender.",
+    "name": {
+      "english": "Rivalry",
+      "french": "Rivalité"
+    }
+  },
+  {
+    "id": 27,
+    "description": "Removes any additional effects from the Pokémon’s moves, but increases the moves’ power.",
+    "name": {
+      "english": "Sheer Force",
+      "french": "Sans Limite"
+    }
+  },
+  {
+    "id": 28,
+    "description": "The Pokémon may infatuate attackers that make direct contact with it.",
+    "name": {
+      "english": "Cute Charm",
+      "french": "Joli Sourire"
+    }
+  },
+  {
+    "id": 29,
+    "description": "The Pokémon only takes damage from attacks.",
+    "name": {
+      "english": "Magic Guard",
+      "french": "Garde Magik"
+    }
+  },
+  {
+    "id": 30,
+    "description": "Reduces damage dealt to allies.",
+    "name": {
+      "english": "Friend Guard",
+      "french": "Garde Amie"
+    }
+  },
+  {
+    "id": 31,
+    "description": "When attacking, the Pokémon ignores the target’s stat changes.",
+    "name": {
+      "english": "Unaware",
+      "french": "Inconscient"
+    }
+  },
+  {
+    "id": 32,
+    "description": "If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves.",
+    "name": {
+      "english": "Flash Fire",
+      "french": "Torche"
+    }
+  },
+  {
+    "id": 33,
+    "description": "Turns the sunlight harsh when the Pokémon enters a battle.",
+    "name": {
+      "english": "Drought",
+      "french": "Sécheresse"
+    }
+  },
+  {
+    "id": 34,
+    "description": "Boosts the Pokémon’s Sp. Atk stat sharply when its stats are lowered by an opposing Pokémon.",
+    "name": {
+      "english": "Competitive",
+      "french": "Battant"
+    }
+  },
+  {
+    "id": 35,
+    "description": "When it enters a battle, the Pokémon can check an opposing Pokémon’s held item.",
+    "name": {
+      "english": "Frisk",
+      "french": "Fouille"
+    }
+  },
+  {
+    "id": 36,
+    "description": "The Pokémon’s intense focus prevents it from flinching or being affected by Intimidate.",
+    "name": {
+      "english": "Inner Focus",
+      "french": "Attention"
+    }
+  },
+  {
+    "id": 37,
+    "description": "The Pokémon’s moves are unaffected by the target’s barriers, substitutes, and the like.",
+    "name": {
+      "english": "Infiltrator",
+      "french": "Infiltration"
+    }
+  },
+  {
+    "id": 38,
+    "description": "By releasing a stench when attacking, the Pokémon may cause the target to flinch.",
+    "name": {
+      "english": "Stench",
+      "french": "Puanteur"
+    }
+  },
+  {
+    "id": 39,
+    "description": "Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker.",
+    "name": {
+      "english": "Effect Spore",
+      "french": "Pose Spore"
+    }
+  },
+  {
+    "id": 40,
+    "description": "Restores the Pokémon’s HP in rain or when it is hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves.",
+    "name": {
+      "english": "Dry Skin",
+      "french": "Peau Sèche"
+    }
+  },
+  {
+    "id": 41,
+    "description": "The Pokémon dampens its surroundings, preventing all Pokémon from using explosive moves such as Self-Destruct.",
+    "name": {
+      "english": "Damp",
+      "french": "Moiteur"
+    }
+  },
+  {
+    "id": 42,
+    "description": "Makes status moves more likely to miss the Pokémon.",
+    "name": {
+      "english": "Wonder Skin",
+      "french": "Peau Miracle"
+    }
+  },
+  {
+    "id": 43,
+    "description": "Prevents opposing Pokémon from fleeing from battle.",
+    "name": {
+      "english": "Arena Trap",
+      "french": "Piège Sable"
+    }
+  },
+  {
+    "id": 44,
+    "description": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
+    "name": {
+      "english": "Sand Force",
+      "french": "Force Sable"
+    }
+  },
+  {
+    "id": 45,
+    "description": "The Pokémon may pick up an item another Pokémon used during a battle. It may pick up items outside of battle, too.",
+    "name": {
+      "english": "Pickup",
+      "french": "Ramassage"
+    }
+  },
+  {
+    "id": 46,
+    "description": "Powers up weak moves so the Pokémon can deal more damage with them.",
+    "name": {
+      "english": "Technician",
+      "french": "Technicien"
+    }
+  },
+  {
+    "id": 47,
+    "description": "The Pokémon’s limber body prevents it from being paralyzed.",
+    "name": {
+      "english": "Limber",
+      "french": "Échauffement"
+    }
+  },
+  {
+    "id": 48,
+    "description": "Eliminates the effects of weather.",
+    "name": {
+      "english": "Cloud Nine",
+      "french": "Ciel Gris"
+    }
+  },
+  {
+    "id": 49,
+    "description": "Boosts the Pokémon’s Speed stat in rain.",
+    "name": {
+      "english": "Swift Swim",
+      "french": "Glissade"
+    }
+  },
+  {
+    "id": 50,
+    "description": "The Pokémon is full of vitality, and that prevents it from falling asleep.",
+    "name": {
+      "english": "Vital Spirit",
+      "french": "Esprit Vital"
+    }
+  },
+  {
+    "id": 51,
+    "description": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
+    "name": {
+      "english": "Anger Point",
+      "french": "Colérique"
+    }
+  },
+  {
+    "id": 52,
+    "description": "If the Pokémon has any stat lowered by an opposing Pokémon, its Attack stat will be boosted sharply.",
+    "name": {
+      "english": "Defiant",
+      "french": "Acharné"
+    }
+  },
+  {
+    "id": 53,
+    "description": "When the Pokémon is hit by a Dark-type attack, its Attack stat is boosted by its sense of justice.",
+    "name": {
+      "english": "Justified",
+      "french": "Cœur Noble"
+    }
+  },
+  {
+    "id": 54,
+    "description": "If hit by a Water-type move, the Pokémon has its HP restored instead of taking damage.",
+    "name": {
+      "english": "Water Absorb",
+      "french": "Absorb Eau"
+    }
+  },
+  {
+    "id": 55,
+    "description": "If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition.",
+    "name": {
+      "english": "Synchronize",
+      "french": "Synchro"
+    }
+  },
+  {
+    "id": 56,
+    "description": "The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.",
+    "name": {
+      "english": "No Guard",
+      "french": "Annule Garde"
+    }
+  },
+  {
+    "id": 57,
+    "description": "The Pokémon’s determination boosts its Speed stat every time it flinches.",
+    "name": {
+      "english": "Steadfast",
+      "french": "Impassible"
+    }
+  },
+  {
+    "id": 58,
+    "description": "If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less.",
+    "name": {
+      "english": "Gluttony",
+      "french": "Gloutonnerie"
+    }
+  },
+  {
+    "id": 59,
+    "description": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.",
+    "name": {
+      "english": "Clear Body",
+      "french": "Corps Sain"
+    }
+  },
+  {
+    "id": 60,
+    "description": "The strong stench of the Pokémon’s oozed liquid damages attackers that use HP-draining moves.",
+    "name": {
+      "english": "Liquid Ooze",
+      "french": "Suintement"
+    }
+  },
+  {
+    "id": 61,
+    "description": "Protects the Pokémon from recoil damage.",
+    "name": {
+      "english": "Rock Head",
+      "french": "Tête de Roc"
+    }
+  },
+  {
+    "id": 62,
+    "description": "The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out.",
+    "name": {
+      "english": "Sturdy",
+      "french": "Fermeté"
+    }
+  },
+  {
+    "id": 63,
+    "description": "Contact with the Pokémon may burn the attacker.",
+    "name": {
+      "english": "Flame Body",
+      "french": "Corps Ardent"
+    }
+  },
+  {
+    "id": 64,
+    "description": "The Pokémon is oblivious, keeping it from being infatuated, falling for taunts, or being affected by Intimidate.",
+    "name": {
+      "english": "Oblivious",
+      "french": "Benêt"
+    }
+  },
+  {
+    "id": 65,
+    "description": "The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate.",
+    "name": {
+      "english": "Own Tempo",
+      "french": "Tempo Perso"
+    }
+  },
+  {
+    "id": 66,
+    "description": "The Pokémon has a little of its HP restored when withdrawn from battle.",
+    "name": {
+      "english": "Regenerator",
+      "french": "Régé-Force"
+    }
+  },
+  {
+    "id": 67,
+    "description": "Prevents Steel-type Pokémon from fleeing by pulling them in with magnetism.",
+    "name": {
+      "english": "Magnet Pull",
+      "french": "Magnépiège"
+    }
+  },
+  {
+    "id": 68,
+    "description": "Boosts the power of the Pokémon’s move if it is the last to act that turn.",
+    "name": {
+      "english": "Analytic",
+      "french": "Analyste"
+    }
+  },
+  {
+    "id": 69,
+    "description": "The Pokémon awakens from sleep twice as fast as other Pokémon.",
+    "name": {
+      "english": "Early Bird",
+      "french": "Matinal"
+    }
+  },
+  {
+    "id": 70,
+    "description": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
+    "name": {
+      "english": "Thick Fat",
+      "french": "Isograisse"
+    }
+  },
+  {
+    "id": 71,
+    "description": "Cures the Pokémon’s status conditions in rain.",
+    "name": {
+      "english": "Hydration",
+      "french": "Hydratation"
+    }
+  },
+  {
+    "id": 72,
+    "description": "The Pokémon gradually regains HP in snow.",
+    "name": {
+      "english": "Ice Body",
+      "french": "Corps Gel"
+    }
+  },
+  {
+    "id": 73,
+    "description": "The Pokémon’s held items cling to its sticky body and cannot be removed by other Pokémon.",
+    "name": {
+      "english": "Sticky Hold",
+      "french": "Glue"
+    }
+  },
+  {
+    "id": 74,
+    "description": "May poison a target when the Pokémon makes contact.",
+    "name": {
+      "english": "Poison Touch",
+      "french": "Toxitouche"
+    }
+  },
+  {
+    "id": 75,
+    "description": "A hard shell protects the Pokémon from critical hits.",
+    "name": {
+      "english": "Shell Armor",
+      "french": "Coque Armure"
+    }
+  },
+  {
+    "id": 76,
+    "description": "Maximizes the number of times multistrike moves hit.",
+    "name": {
+      "english": "Skill Link",
+      "french": "Multi-Coups"
+    }
+  },
+  {
+    "id": 77,
+    "description": "The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores.",
+    "name": {
+      "english": "Overcoat",
+      "french": "Envelocape"
+    }
+  },
+  {
+    "id": 78,
+    "description": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
+    "name": {
+      "english": "Levitate",
+      "french": "Lévitation"
+    }
+  },
+  {
+    "id": 79,
+    "description": "May disable a move that has dealt damage to the Pokémon.",
+    "name": {
+      "english": "Cursed Body",
+      "french": "Corps Maudit"
+    }
+  },
+  {
+    "id": 80,
+    "description": "The Pokémon’s Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted.",
+    "name": {
+      "english": "Weak Armor",
+      "french": "Armurouillée"
+    }
+  },
+  {
+    "id": 81,
+    "description": "The Pokémon’s insomnia prevents it from falling asleep.",
+    "name": {
+      "english": "Insomnia",
+      "french": "Insomnia"
+    }
+  },
+  {
+    "id": 82,
+    "description": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",
+    "name": {
+      "english": "Forewarn",
+      "french": "Prédiction"
+    }
+  },
+  {
+    "id": 83,
+    "description": "The Pokémon’s prized, mighty pincers prevent other Pokémon from lowering its Attack stat.",
+    "name": {
+      "english": "Hyper Cutter",
+      "french": "Hyper Cutter"
+    }
+  },
+  {
+    "id": 84,
+    "description": "Soundproofing gives the Pokémon full immunity to all sound-based moves.",
+    "name": {
+      "english": "Soundproof",
+      "french": "Anti-Bruit"
+    }
+  },
+  {
+    "id": 85,
+    "description": "Damages the attacker if it knocks out the Pokémon with a move that makes direct contact.",
+    "name": {
+      "english": "Aftermath",
+      "french": "Boom Final"
+    }
+  },
+  {
+    "id": 86,
+    "description": "May create another Berry after one is used.",
+    "name": {
+      "english": "Harvest",
+      "french": "Récolte"
+    }
+  },
+  {
+    "id": 87,
+    "description": "Hard armor protects the Pokémon from critical hits.",
+    "name": {
+      "english": "Battle Armor",
+      "french": "Armurbaston"
+    }
+  },
+  {
+    "id": 88,
+    "description": "Powers up moves that have recoil damage.",
+    "name": {
+      "english": "Reckless",
+      "french": "Téméraire"
+    }
+  },
+  {
+    "id": 89,
+    "description": "Boosts the Speed stat if the Pokémon’s held item is used or lost.",
+    "name": {
+      "english": "Unburden",
+      "french": "Délestage"
+    }
+  },
+  {
+    "id": 90,
+    "description": "Powers up punching moves.",
+    "name": {
+      "english": "Iron Fist",
+      "french": "Poing de Fer"
+    }
+  },
+  {
+    "id": 91,
+    "description": "The Pokémon’s status conditions are cured when it switches out.",
+    "name": {
+      "english": "Natural Cure",
+      "french": "Médic Nature"
+    }
+  },
+  {
+    "id": 92,
+    "description": "Raises the likelihood of additional effects occurring when the Pokémon uses its moves.",
+    "name": {
+      "english": "Serene Grace",
+      "french": "Sérénité"
+    }
+  },
+  {
+    "id": 93,
+    "description": "Sometimes cures the status conditions of the Pokémon’s allies.",
+    "name": {
+      "english": "Healer",
+      "french": "Cœur Soin"
+    }
+  },
+  {
+    "id": 94,
+    "description": "Prevents status conditions in harsh sunlight.",
+    "name": {
+      "english": "Leaf Guard",
+      "french": "Feuille Garde"
+    }
+  },
+  {
+    "id": 95,
+    "description": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.",
+    "name": {
+      "english": "Scrappy",
+      "french": "Querelleur"
+    }
+  },
+  {
+    "id": 96,
+    "description": "The Pokémon’s water veil prevents it from being burned.",
+    "name": {
+      "english": "Water Veil",
+      "french": "Ignifu-Voile"
+    }
+  },
+  {
+    "id": 97,
+    "description": "Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.",
+    "name": {
+      "english": "Illuminate",
+      "french": "Lumiattirance"
+    }
+  },
+  {
+    "id": 98,
+    "description": "Reduces the power of supereffective attacks that hit the Pokémon.",
+    "name": {
+      "english": "Filter",
+      "french": "Filtre"
+    }
+  },
+  {
+    "id": 99,
+    "description": "The Pokémon’s moves are unimpeded by the Ability of the target.",
+    "name": {
+      "english": "Mold Breaker",
+      "french": "Brise Moule"
+    }
+  },
+  {
+    "id": 100,
+    "description": "When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat.",
+    "name": {
+      "english": "Moxie",
+      "french": "Impudence"
+    }
+  },
+  {
+    "id": 101,
+    "description": "The Pokémon gets scared when hit by a Dark-, Ghost-, or Bug-type attack or if intimidated, which boosts its Speed stat.",
+    "name": {
+      "english": "Rattled",
+      "french": "Phobique"
+    }
+  },
+  {
+    "id": 102,
+    "description": "The Pokémon transforms itself into the Pokémon it’s facing.",
+    "name": {
+      "english": "Imposter",
+      "french": "Imposteur"
+    }
+  },
+  {
+    "id": 103,
+    "description": "Powers up moves of the same type as the Pokémon.",
+    "name": {
+      "english": "Adaptability",
+      "french": "Adaptabilité"
+    }
+  },
+  {
+    "id": 104,
+    "description": "The Pokémon can sense an opposing Pokémon’s dangerous moves.",
+    "name": {
+      "english": "Anticipation",
+      "french": "Anticipation"
+    }
+  },
+  {
+    "id": 105,
+    "description": "If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage.",
+    "name": {
+      "english": "Volt Absorb",
+      "french": "Absorb Volt"
+    }
+  },
+  {
+    "id": 106,
+    "description": "Boosts the Speed stat if the Pokémon has a status condition.",
+    "name": {
+      "english": "Quick Feet",
+      "french": "Pied Véloce"
+    }
+  },
+  {
+    "id": 107,
+    "description": "When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability.",
+    "name": {
+      "english": "Trace",
+      "french": "Calque"
+    }
+  },
+  {
+    "id": 108,
+    "description": "The Pokémon compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.",
+    "name": {
+      "english": "Download",
+      "french": "Télécharge"
+    }
+  },
+  {
+    "id": 109,
+    "description": "Puts other Pokémon under pressure, causing them to expend more PP to use their moves.",
+    "name": {
+      "english": "Pressure",
+      "french": "Pression"
+    }
+  },
+  {
+    "id": 110,
+    "description": "The Pokémon’s immune system prevents it from being poisoned.",
+    "name": {
+      "english": "Immunity",
+      "french": "Vaccin"
+    }
+  },
+  {
+    "id": 111,
+    "description": "Boosts the Pokémon’s evasiveness in snow.",
+    "name": {
+      "english": "Snow Cloak",
+      "french": "Rideau Neige"
+    }
+  },
+  {
+    "id": 112,
+    "description": "The Pokémon’s marvelous scales boost its Defense stat if it has a status condition.",
+    "name": {
+      "english": "Marvel Scale",
+      "french": "Écaille Spéciale"
+    }
+  },
+  {
+    "id": 113,
+    "description": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+    "name": {
+      "english": "Multiscale",
+      "french": "Multiécaille"
+    }
+  },
+  {
+    "id": 114,
+    "description": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.",
+    "name": {
+      "english": "Super Luck",
+      "french": "Chanceux"
+    }
+  },
+  {
+    "id": 115,
+    "description": "The Pokémon reflects status moves instead of getting hit by them.",
+    "name": {
+      "english": "Magic Bounce",
+      "french": "Miroir Magik"
+    }
+  },
+  {
+    "id": 116,
+    "description": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
+    "name": {
+      "english": "Plus",
+      "french": "Plus"
+    }
+  },
+  {
+    "id": 117,
+    "description": "Doubles the Pokémon’s Attack stat.",
+    "name": {
+      "english": "Huge Power",
+      "french": "Coloforce"
+    }
+  },
+  {
+    "id": 118,
+    "description": "The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted.",
+    "name": {
+      "english": "Sap Sipper",
+      "french": "Herbivore"
+    }
+  },
+  {
+    "id": 119,
+    "description": "The Pokémon makes it rain when it enters a battle.",
+    "name": {
+      "english": "Drizzle",
+      "french": "Crachin"
+    }
+  },
+  {
+    "id": 120,
+    "description": "The Pokémon’s Speed stat is boosted every turn.",
+    "name": {
+      "english": "Speed Boost",
+      "french": "Turbo"
+    }
+  },
+  {
+    "id": 121,
+    "description": "Gives priority to the Pokémon’s status moves.",
+    "name": {
+      "english": "Prankster",
+      "french": "Farceur"
+    }
+  },
+  {
+    "id": 122,
+    "description": "The Pokémon steps on the opposing Pokémon’s shadows to prevent them from fleeing or switching out.",
+    "name": {
+      "english": "Shadow Tag",
+      "french": "Marque Ombre"
+    }
+  },
+  {
+    "id": 123,
+    "description": "The Pokémon anticipates and dodges the attacks of its allies.",
+    "name": {
+      "english": "Telepathy",
+      "french": "Télépathe"
+    }
+  },
+  {
+    "id": 124,
+    "description": "Halves the Pokémon’s weight.",
+    "name": {
+      "english": "Light Metal",
+      "french": "Light Metal"
+    }
+  },
+  {
+    "id": 125,
+    "description": "Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them— and attempts to lower its stats will boost them.",
+    "name": {
+      "english": "Contrary",
+      "french": "Contestation"
+    }
+  },
+  {
+    "id": 126,
+    "description": "The Pokémon steals the held item from attackers that make direct contact with it.",
+    "name": {
+      "english": "Pickpocket",
+      "french": "Pickpocket"
+    }
+  },
+  {
+    "id": 127,
+    "description": "The Pokémon may gather Honey after a battle.",
+    "name": {
+      "english": "Honey Gather",
+      "french": "Cherche Miel"
+    }
+  },
+  {
+    "id": 128,
+    "description": "The Pokémon’s hot magma coating prevents it from being frozen.",
+    "name": {
+      "english": "Magma Armor",
+      "french": "Armumagma"
+    }
+  },
+  {
+    "id": 129,
+    "description": "Every turn, one of the Pokémon’s stats will be boosted sharply but another stat will be lowered.",
+    "name": {
+      "english": "Moody",
+      "french": "Lunatique"
+    }
+  },
+  {
+    "id": 130,
+    "description": "The Pokémon uses suction cups to stay in one spot. This protects it from moves and items that would force it to switch out.",
+    "name": {
+      "english": "Suction Cups",
+      "french": "Ventouse"
+    }
+  },
+  {
+    "id": 131,
+    "description": "The Pokémon summons a sandstorm when it enters a battle.",
+    "name": {
+      "english": "Sand Stream",
+      "french": "Sable Volant"
+    }
+  },
+  {
+    "id": 132,
+    "description": "If poisoned, the Pokémon has its HP restored instead of taking damage.",
+    "name": {
+      "english": "Poison Heal",
+      "french": "Soin Poison"
+    }
+  },
+  {
+    "id": 133,
+    "description": "Each time the Pokémon uses a move, it spends the next turn loafing around.",
+    "name": {
+      "english": "Truant",
+      "french": "Absentéisme"
+    }
+  },
+  {
+    "id": 134,
+    "description": "Its mysterious power only lets supereffective moves hit the Pokémon.",
+    "name": {
+      "english": "Wonder Guard",
+      "french": "Garde Mystik"
+    }
+  },
+  {
+    "id": 135,
+    "description": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.",
+    "name": {
+      "english": "Normalize",
+      "french": "Normalise"
+    }
+  },
+  {
+    "id": 136,
+    "description": "The Pokémon is always the last to use its moves.",
+    "name": {
+      "english": "Stall",
+      "french": "Frein"
+    }
+  },
+  {
+    "id": 137,
+    "description": "Doubles the Pokémon’s weight.",
+    "name": {
+      "english": "Heavy Metal",
+      "french": "Heavy Metal"
+    }
+  },
+  {
+    "id": 138,
+    "description": "Using its pure power, the Pokémon doubles its Attack stat.",
+    "name": {
+      "english": "Pure Power",
+      "french": "Force Pure"
+    }
+  },
+  {
+    "id": 139,
+    "description": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
+    "name": {
+      "english": "Minus",
+      "french": "Minus"
+    }
+  },
+  {
+    "id": 140,
+    "description": "The Pokémon’s rough skin damages attackers that make direct contact with it.",
+    "name": {
+      "english": "Rough Skin",
+      "french": "Peau Dure"
+    }
+  },
+  {
+    "id": 141,
+    "description": "Doubles the effects of the Pokémon’s stat changes.",
+    "name": {
+      "english": "Simple",
+      "french": "Simple"
+    }
+  },
+  {
+    "id": 142,
+    "description": "Reduces the power of supereffective attacks that hit the Pokémon.",
+    "name": {
+      "english": "Solid Rock",
+      "french": "Solide Roc"
+    }
+  },
+  {
+    "id": 143,
+    "description": "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.",
+    "name": {
+      "english": "White Smoke",
+      "french": "Écran Fumée"
+    }
+  },
+  {
+    "id": 144,
+    "description": "Powers up physical moves when the Pokémon is poisoned.",
+    "name": {
+      "english": "Toxic Boost",
+      "french": "Rage Poison"
+    }
+  },
+  {
+    "id": 145,
+    "description": "The Pokémon draws in all Water-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
+    "name": {
+      "english": "Storm Drain",
+      "french": "Lavabo"
+    }
+  },
+  {
+    "id": 146,
+    "description": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.",
+    "name": {
+      "english": "Forecast",
+      "french": "Météo"
+    }
+  },
+  {
+    "id": 147,
+    "description": "The Pokémon’s type becomes the type of the move used on it.",
+    "name": {
+      "english": "Color Change",
+      "french": "Déguisement"
+    }
+  },
+  {
+    "id": 148,
+    "description": "Changes the Pokémon’s type to the type of the move it’s about to use. This works only once each time the Pokémon enters battle.",
+    "name": {
+      "english": "Protean",
+      "french": "Protéen"
+    }
+  },
+  {
+    "id": 149,
+    "description": "Eliminates the effects of weather.",
+    "name": {
+      "english": "Air Lock",
+      "french": "Air Lock"
+    }
+  },
+  {
+    "id": 150,
+    "description": "Boosts the Attack and Sp. Def stats of the Pokémon and its allies in harsh sunlight.",
+    "name": {
+      "english": "Flower Gift",
+      "french": "Don Floral"
+    }
+  },
+  {
+    "id": 151,
+    "description": "Powers up special moves when the Pokémon is burned.",
+    "name": {
+      "english": "Flare Boost",
+      "french": "Rage Brûlure"
+    }
+  },
+  {
+    "id": 152,
+    "description": "The Pokémon can’t use any held items.",
+    "name": {
+      "english": "Klutz",
+      "french": "Maladresse"
+    }
+  },
+  {
+    "id": 153,
+    "description": "The Pokémon’s heatproof body halves the damage taken from Fire-type moves.",
+    "name": {
+      "english": "Heatproof",
+      "french": "Ignifugé"
+    }
+  },
+  {
+    "id": 154,
+    "description": "The Pokémon makes it snow when it enters a battle.",
+    "name": {
+      "english": "Snow Warning",
+      "french": "Alerte Neige"
+    }
+  },
+  {
+    "id": 155,
+    "description": "The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted.",
+    "name": {
+      "english": "Motor Drive",
+      "french": "Motorisé"
+    }
+  },
+  {
+    "id": 156,
+    "description": "For five turns, the Pokémon’s Attack and Speed stats are halved.",
+    "name": {
+      "english": "Slow Start",
+      "french": "Début Calme"
+    }
+  },
+  {
+    "id": 157,
+    "description": "Damages opposing Pokémon that are asleep.",
+    "name": {
+      "english": "Bad Dreams",
+      "french": "Mauvais Rêve"
+    }
+  },
+  {
+    "id": 158,
+    "description": "Changes the Pokémon’s type to match the plate it holds.",
+    "name": {
+      "english": "Multitype",
+      "french": "Multitype"
+    }
+  },
+  {
+    "id": 159,
+    "description": "Boosts the accuracy of the Pokémon and its allies.",
+    "name": {
+      "english": "Victory Star",
+      "french": "Victorieux"
+    }
+  },
+  {
+    "id": 160,
+    "description": "Changes the Pokémon’s shape when its HP drops to half or less.",
+    "name": {
+      "english": "Zen Mode",
+      "french": "Mode Transe"
+    }
+  },
+  {
+    "id": 161,
+    "description": "Contact with the Pokémon changes the attacker’s Ability to Mummy.",
+    "name": {
+      "english": "Mummy",
+      "french": "Momie"
+    }
+  },
+  {
+    "id": 162,
+    "description": "Halves the Pokémon’s Attack and Sp. Atk stats when its HP drops to half or less.",
+    "name": {
+      "english": "Defeatist",
+      "french": "Défaitiste"
+    }
+  },
+  {
+    "id": 163,
+    "description": "The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer’s party.",
+    "name": {
+      "english": "Illusion",
+      "french": "Illusion"
+    }
+  },
+  {
+    "id": 164,
+    "description": "The Pokémon’s iron barbs damage the attacker if it makes direct contact.",
+    "name": {
+      "english": "Iron Barbs",
+      "french": "Épine de Fer"
+    }
+  },
+  {
+    "id": 165,
+    "description": "Boosts the Pokémon’s Speed stat in snow.",
+    "name": {
+      "english": "Slush Rush",
+      "french": "Chasse-Neige"
+    }
+  },
+  {
+    "id": 166,
+    "description": "The Pokémon’s moves are unimpeded by the Ability of the target.",
+    "name": {
+      "english": "Turboblaze",
+      "french": "TurboBrasier"
+    }
+  },
+  {
+    "id": 167,
+    "description": "The Pokémon’s moves are unimpeded by the Ability of the target.",
+    "name": {
+      "english": "Teravolt",
+      "french": "Téra-Voltage"
+    }
+  },
+  {
+    "id": 168,
+    "description": "Protects the Pokémon from ball and bomb moves.",
+    "name": {
+      "english": "Bulletproof",
+      "french": "Pare-Balles"
+    }
+  },
+  {
+    "id": 169,
+    "description": "The Pokémon steals the held item from any target it hits with a move.",
+    "name": {
+      "english": "Magician",
+      "french": "Magicien"
+    }
+  },
+  {
+    "id": 170,
+    "description": "The Pokémon’s HP is restored when it eats any Berry, in addition to the Berry’s usual effect.",
+    "name": {
+      "english": "Cheek Pouch",
+      "french": "Bajoues"
+    }
+  },
+  {
+    "id": 171,
+    "description": "Gives priority to the Pokémon’s Flying-type moves while its HP is full.",
+    "name": {
+      "english": "Gale Wings",
+      "french": "Ailes Bourrasque"
+    }
+  },
+  {
+    "id": 172,
+    "description": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.",
+    "name": {
+      "english": "Flower Veil",
+      "french": "Flora-Voile"
+    }
+  },
+  {
+    "id": 173,
+    "description": "The Pokémon passes its held item to an ally that has used up an item.",
+    "name": {
+      "english": "Symbiosis",
+      "french": "Symbiose"
+    }
+  },
+  {
+    "id": 174,
+    "description": "Boosts the Pokémon’s Defense stat on Grassy Terrain.",
+    "name": {
+      "english": "Grass Pelt",
+      "french": "Toison Herbue"
+    }
+  },
+  {
+    "id": 175,
+    "description": "Halves the damage from physical moves.",
+    "name": {
+      "english": "Fur Coat",
+      "french": "Toison Épaisse"
+    }
+  },
+  {
+    "id": 176,
+    "description": "The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.",
+    "name": {
+      "english": "Stance Change",
+      "french": "Déclic Tactique"
+    }
+  },
+  {
+    "id": 177,
+    "description": "Protects the Pokémon and its allies from effects that prevent the use of moves.",
+    "name": {
+      "english": "Aroma Veil",
+      "french": "Aroma-Voile"
+    }
+  },
+  {
+    "id": 178,
+    "description": "Prevents the Pokémon and its allies from falling asleep.",
+    "name": {
+      "english": "Sweet Veil",
+      "french": "Gluco-Voile"
+    }
+  },
+  {
+    "id": 179,
+    "description": "Powers up moves that make direct contact.",
+    "name": {
+      "english": "Tough Claws",
+      "french": "Griffe Dure"
+    }
+  },
+  {
+    "id": 180,
+    "description": "Powers up pulse moves.",
+    "name": {
+      "english": "Mega Launcher",
+      "french": "Méga Blaster"
+    }
+  },
+  {
+    "id": 181,
+    "description": "The Pokémon’s strong jaw boosts the power of its biting moves.",
+    "name": {
+      "english": "Strong Jaw",
+      "french": "Prognathe"
+    }
+  },
+  {
+    "id": 182,
+    "description": "Normal-type moves become Ice-type moves. The power of those moves is boosted a little.",
+    "name": {
+      "english": "Refrigerate",
+      "french": "Peau Gelée"
+    }
+  },
+  {
+    "id": 183,
+    "description": "Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.",
+    "name": {
+      "english": "Pixilate",
+      "french": "Peau Féérique"
+    }
+  },
+  {
+    "id": 184,
+    "description": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "name": {
+      "english": "Gooey",
+      "french": "Poisseux"
+    }
+  },
+  {
+    "id": 185,
+    "description": "Powers up the Fairy-type moves of all Pokémon on the field.",
+    "name": {
+      "english": "Fairy Aura",
+      "french": "Aura Féérique"
+    }
+  },
+  {
+    "id": 186,
+    "description": "Powers up the Dark-type moves of all Pokémon on the field.",
+    "name": {
+      "english": "Dark Aura",
+      "french": "Aura Ténébreuse"
+    }
+  },
+  {
+    "id": 187,
+    "description": "The effects of “Aura” Abilities are reversed to lower the power of affected moves.",
+    "name": {
+      "english": "Aura Break",
+      "french": "Aura Inversée"
+    }
+  },
+  {
+    "id": 188,
+    "description": "The Pokémon uses its moves without making contact with the target.",
+    "name": {
+      "english": "Long Reach",
+      "french": "Longue Portée"
+    }
+  },
+  {
+    "id": 189,
+    "description": "Sound-based moves become Water-type moves.",
+    "name": {
+      "english": "Liquid Voice",
+      "french": "Hydrata-Son"
+    }
+  },
+  {
+    "id": 190,
+    "description": "Doubles the damage dealt to a target that has just switched into battle.",
+    "name": {
+      "english": "Stakeout",
+      "french": "Filature"
+    }
+  },
+  {
+    "id": 191,
+    "description": "Powers up ally Pokémon’s special moves.",
+    "name": {
+      "english": "Battery",
+      "french": "Batterie"
+    }
+  },
+  {
+    "id": 192,
+    "description": "Whenever a dance move is used in battle, the Pokémon will copy the user to immediately perform that dance move itself.",
+    "name": {
+      "english": "Dancer",
+      "french": "Danseuse"
+    }
+  },
+  {
+    "id": 193,
+    "description": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low.",
+    "name": {
+      "english": "Schooling",
+      "french": "Banc"
+    }
+  },
+  {
+    "id": 194,
+    "description": "The Pokémon’s attacks become critical hits if the target is poisoned.",
+    "name": {
+      "english": "Merciless",
+      "french": "Cruauté"
+    }
+  },
+  {
+    "id": 195,
+    "description": "Boosts the Defense stat when the Pokémon is hit by an attack.",
+    "name": {
+      "english": "Stamina",
+      "french": "Endurance"
+    }
+  },
+  {
+    "id": 196,
+    "description": "Lowers the power of Fire-type moves that hit the Pokémon and prevents it from being burned.",
+    "name": {
+      "english": "Water Bubble",
+      "french": "Aquabulle"
+    }
+  },
+  {
+    "id": 197,
+    "description": "The Pokémon can poison the target even if it’s a Steel or Poison type.",
+    "name": {
+      "english": "Corrosion",
+      "french": "Corrosion"
+    }
+  },
+  {
+    "id": 198,
+    "description": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves.",
+    "name": {
+      "english": "Fluffy",
+      "french": "Boule de Poils"
+    }
+  },
+  {
+    "id": 199,
+    "description": "The Pokémon’s majesty pressures opponents and makes them unable to use priority moves against the Pokémon or its allies.",
+    "name": {
+      "english": "Queenly Majesty",
+      "french": "Prestance Royale"
+    }
+  },
+  {
+    "id": 200,
+    "description": "Gives priority to the Pokémon’s healing moves.",
+    "name": {
+      "english": "Triage",
+      "french": "Prioguérison"
+    }
+  },
+  {
+    "id": 201,
+    "description": "The Pokémon copies the Ability of a defeated ally.",
+    "name": {
+      "english": "Receiver",
+      "french": "Receveur"
+    }
+  },
+  {
+    "id": 202,
+    "description": "The Pokémon cowardly switches out when its HP drops to half or less.",
+    "name": {
+      "english": "Wimp Out",
+      "french": "Escampette"
+    }
+  },
+  {
+    "id": 203,
+    "description": "The Pokémon, sensing danger, switches out when its HP drops to half or less.",
+    "name": {
+      "english": "Emergency Exit",
+      "french": "Repli Tactique"
+    }
+  },
+  {
+    "id": 204,
+    "description": "Boosts the Defense stat sharply when the Pokémon is hit by a Water-type move.",
+    "name": {
+      "english": "Water Compaction",
+      "french": "Sable Humide"
+    }
+  },
+  {
+    "id": 205,
+    "description": "When the Pokémon is knocked out, it damages its attacker by the amount equal to the HP it had left before it was hit.",
+    "name": {
+      "english": "Innards Out",
+      "french": "Expuls'Organes"
+    }
+  },
+  {
+    "id": 206,
+    "description": "Changes the Pokémon’s type to match the memory disc it holds.",
+    "name": {
+      "english": "Rks System",
+      "french": "Système Alpha"
+    }
+  },
+  {
+    "id": 207,
+    "description": "When its HP drops to half or less, the Pokémon’s shell breaks and it becomes aggressive.",
+    "name": {
+      "english": "Shields Down",
+      "french": "Bouclier-Carcan"
+    }
+  },
+  {
+    "id": 208,
+    "description": "The Pokémon is always drowsing and will never wake up. It can attack while in its sleeping state.",
+    "name": {
+      "english": "Comatose",
+      "french": "Hypersommeil"
+    }
+  },
+  {
+    "id": 209,
+    "description": "Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
+    "name": {
+      "english": "Disguise",
+      "french": "Fantômasque"
+    }
+  },
+  {
+    "id": 210,
+    "description": "The Pokémon dazzles its opponents, making them unable to use priority moves against the Pokémon or its allies.",
+    "name": {
+      "english": "Dazzling",
+      "french": "Corps Coloré"
+    }
+  },
+  {
+    "id": 211,
+    "description": "Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to drop to half or less.",
+    "name": {
+      "english": "Berserk",
+      "french": "Dracolère"
+    }
+  },
+  {
+    "id": 212,
+    "description": "Powers up Steel-type moves.",
+    "name": {
+      "english": "Steelworker",
+      "french": "Expert Acier"
+    }
+  },
+  {
+    "id": 213,
+    "description": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
+    "name": {
+      "english": "Electric Surge",
+      "french": "Créa-Élec"
+    }
+  },
+  {
+    "id": 214,
+    "description": "Turns the ground into Psychic Terrain when the Pokémon enters a battle.",
+    "name": {
+      "english": "Psychic Surge",
+      "french": "Créa-Psy"
+    }
+  },
+  {
+    "id": 215,
+    "description": "Turns the ground into Grassy Terrain when the Pokémon enters a battle.",
+    "name": {
+      "english": "Grassy Surge",
+      "french": "Créa-Herbe"
+    }
+  },
+  {
+    "id": 216,
+    "description": "Turns the ground into Misty Terrain when the Pokémon enters a battle.",
+    "name": {
+      "english": "Misty Surge",
+      "french": "Créa-Brume"
+    }
+  },
+  {
+    "id": 217,
+    "description": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.",
+    "name": {
+      "english": "Full Metal Body",
+      "french": "Métallo-Garde"
+    }
+  },
+  {
+    "id": 218,
+    "description": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+    "name": {
+      "english": "Shadow Shield",
+      "french": "Spectro-Bouclier"
+    }
+  },
+  {
+    "id": 219,
+    "description": "Boosts the Pokémon’s most proficient stat every time it knocks out a target.",
+    "name": {
+      "english": "Beast Boost",
+      "french": "Boost Chimère"
+    }
+  },
+  {
+    "id": 220,
+    "description": "Reduces the power of supereffective attacks that hit the Pokémon.",
+    "name": {
+      "english": "Prism Armor",
+      "french": "Prisme-Armure"
+    }
+  },
+  {
+    "id": 221,
+    "description": "Boosts the Pokémon’s Sp. Atk stat every time another Pokémon faints.",
+    "name": {
+      "english": "Soul Heart",
+      "french": "Animacœur"
+    }
+  },
+  {
+    "id": 222,
+    "description": "Turns the ground into Grassy Terrain when the Pokémon enters a battle.",
+    "name": {
+      "english": "Grassy-surge",
+      "french": "Créa-Herbe"
+    }
+  },
+  {
+    "id": 223,
+    "description": "Changes the Pokémon’s type to the type of the move it’s about to use. This works only once each time the Pokémon enters battle.",
+    "name": {
+      "english": "Libero",
+      "french": "Libéro"
+    }
+  },
+  {
+    "id": 224,
+    "description": "The Pokémon’s HP is restored when it eats any Berry, in addition to the Berry’s usual effect.",
+    "name": {
+      "english": "Cheek-pouch",
+      "french": "Bajoues"
+    }
+  },
+  {
+    "id": 225,
+    "description": "The Pokémon’s keen eyes prevent its accuracy from being lowered.",
+    "name": {
+      "english": "Keen-eye",
+      "french": "Regard Vif"
+    }
+  },
+  {
+    "id": 226,
+    "description": "Prevents the Pokémon from having its Defense stat lowered.",
+    "name": {
+      "english": "Big-pecks",
+      "french": "Cœur de Coq"
+    }
+  },
+  {
+    "id": 227,
+    "description": "Bounces back only the stat-lowering effects that the Pokémon receives.",
+    "name": {
+      "english": "Mirror-armor",
+      "french": "Armure Miroir"
+    }
+  },
+  {
+    "id": 228,
+    "description": "The Pokémon’s compound eyes boost its accuracy.",
+    "name": {
+      "english": "Compound-eyes",
+      "french": "Œil Composé"
+    }
+  },
+  {
+    "id": 229,
+    "description": "Enables a sure getaway from wild Pokémon.",
+    "name": {
+      "english": "Run-away",
+      "french": "Fuite"
+    }
+  },
+  {
+    "id": 230,
+    "description": "When the Pokémon is hit by an attack, it scatters cotton fluff around and lowers the Speed stats of all Pokémon except itself.",
+    "name": {
+      "english": "Cotton-down",
+      "french": "Effilochage"
+    }
+  },
+  {
+    "id": 231,
+    "description": "Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker.",
+    "name": {
+      "english": "Effect-spore",
+      "french": "Pose Spore"
+    }
+  },
+  {
+    "id": 232,
+    "description": "The Pokémon’s strong jaw boosts the power of its biting moves.",
+    "name": {
+      "english": "Strong-jaw",
+      "french": "Prognathe"
+    }
+  },
+  {
+    "id": 233,
+    "description": "A hard shell protects the Pokémon from critical hits.",
+    "name": {
+      "english": "Shell-armor",
+      "french": "Coque Armure"
+    }
+  },
+  {
+    "id": 234,
+    "description": "Boosts the Pokémon’s Speed stat in rain.",
+    "name": {
+      "english": "Swift-swim",
+      "french": "Glissade"
+    }
+  },
+  {
+    "id": 235,
+    "description": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle.",
+    "name": {
+      "english": "Ball-fetch",
+      "french": "Ramasse Ball"
+    }
+  },
+  {
+    "id": 236,
+    "description": "Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move.",
+    "name": {
+      "english": "Steam-engine",
+      "french": "Turbine"
+    }
+  },
+  {
+    "id": 237,
+    "description": "If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves.",
+    "name": {
+      "english": "Flash-fire",
+      "french": "Torche"
+    }
+  },
+  {
+    "id": 238,
+    "description": "Contact with the Pokémon may burn the attacker.",
+    "name": {
+      "english": "Flame-body",
+      "french": "Corps Ardent"
+    }
+  },
+  {
+    "id": 239,
+    "description": "Ripens Berries and doubles their effect.",
+    "name": {
+      "english": "Ripen",
+      "french": "Mûrissement"
+    }
+  },
+  {
+    "id": 240,
+    "description": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
+    "name": {
+      "english": "Thick-fat",
+      "french": "Isograisse"
+    }
+  },
+  {
+    "id": 241,
+    "description": "The Pokémon creates a sandstorm when it’s hit by an attack.",
+    "name": {
+      "english": "Sand-spit",
+      "french": "Expul’Sable"
+    }
+  },
+  {
+    "id": 242,
+    "description": "The Pokémon may cure its own status conditions by shedding its skin.",
+    "name": {
+      "english": "Shed-skin",
+      "french": "Mue"
+    }
+  },
+  {
+    "id": 243,
+    "description": "Boosts the Pokémon’s evasiveness in a sandstorm.",
+    "name": {
+      "english": "Sand-veil",
+      "french": "Voile Sable"
+    }
+  },
+  {
+    "id": 244,
+    "description": "When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack.",
+    "name": {
+      "english": "Gulp-missile",
+      "french": "Dégobage"
+    }
+  },
+  {
+    "id": 245,
+    "description": "Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.",
+    "name": {
+      "english": "Propeller-tail",
+      "french": "Propulseur"
+    }
+  },
+  {
+    "id": 246,
+    "description": "Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.",
+    "name": {
+      "english": "Punk-rock",
+      "french": "Punk Rock"
+    }
+  },
+  {
+    "id": 247,
+    "description": "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.",
+    "name": {
+      "english": "White-smoke",
+      "french": "Écran Fumée"
+    }
+  },
+  {
+    "id": 248,
+    "description": "The Pokémon’s Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted.",
+    "name": {
+      "english": "Weak-armor",
+      "french": "Armurouillée"
+    }
+  },
+  {
+    "id": 249,
+    "description": "May disable a move that has dealt damage to the Pokémon.",
+    "name": {
+      "english": "Cursed-body",
+      "french": "Corps Maudit"
+    }
+  },
+  {
+    "id": 250,
+    "description": "The Pokémon reflects status moves instead of getting hit by them.",
+    "name": {
+      "english": "Magic-bounce",
+      "french": "Miroir Magik"
+    }
+  },
+  {
+    "id": 251,
+    "description": "Hard armor protects the Pokémon from critical hits.",
+    "name": {
+      "english": "Battle-armor",
+      "french": "Armurbaston"
+    }
+  },
+  {
+    "id": 252,
+    "description": "Powers up moves that make direct contact.",
+    "name": {
+      "english": "Tough-claws",
+      "french": "Griffe Dure"
+    }
+  },
+  {
+    "id": 253,
+    "description": "Powers up the Steel-type moves of the Pokémon and its allies.",
+    "name": {
+      "english": "Steely-spirit",
+      "french": "Boost Acier"
+    }
+  },
+  {
+    "id": 254,
+    "description": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.",
+    "name": {
+      "english": "Perish-body",
+      "french": "Corps Condamné"
+    }
+  },
+  {
+    "id": 255,
+    "description": "Boosts the Pokémon’s evasiveness if it is confused.",
+    "name": {
+      "english": "Tangled-feet",
+      "french": "Pieds Confus"
+    }
+  },
+  {
+    "id": 256,
+    "description": "When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.",
+    "name": {
+      "english": "Screen-cleaner",
+      "french": "Brise-Barrière"
+    }
+  },
+  {
+    "id": 257,
+    "description": "The Pokémon gradually regains HP in snow.",
+    "name": {
+      "english": "Ice-body",
+      "french": "Corps Gel"
+    }
+  },
+  {
+    "id": 258,
+    "description": "The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact.",
+    "name": {
+      "english": "Wandering-spirit",
+      "french": "Âme Vagabonde"
+    }
+  },
+  {
+    "id": 259,
+    "description": "Prevents the Pokémon and its allies from falling asleep.",
+    "name": {
+      "english": "Sweet-veil",
+      "french": "Gluco-Voile"
+    }
+  },
+  {
+    "id": 260,
+    "description": "Protects the Pokémon and its allies from effects that prevent the use of moves.",
+    "name": {
+      "english": "Aroma-veil",
+      "french": "Aroma-Voile"
+    }
+  },
+  {
+    "id": 261,
+    "description": "The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
+    "name": {
+      "english": "Lightning-rod",
+      "french": "Paratonnerre"
+    }
+  },
+  {
+    "id": 262,
+    "description": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
+    "name": {
+      "english": "Electric-surge",
+      "french": "Créa-Élec"
+    }
+  },
+  {
+    "id": 263,
+    "description": "Protective dust shields the Pokémon from the additional effects of moves.",
+    "name": {
+      "english": "Shield-dust",
+      "french": "Écran Poudre"
+    }
+  },
+  {
+    "id": 264,
+    "description": "The Pokémon is protected by ice scales, which halve the damage taken from special moves.",
+    "name": {
+      "english": "Ice-scales",
+      "french": "Écailles Glacées"
+    }
+  },
+  {
+    "id": 265,
+    "description": "Just being next to the Pokémon powers up moves.",
+    "name": {
+      "english": "Power-spot",
+      "french": "Cercle d’Énergie"
+    }
+  },
+  {
+    "id": 266,
+    "description": "The Pokémon’s ice head can take a physical attack as a substitute, but the attack also changes the Pokémon’s appearance. The ice will be restored when it snows.",
+    "name": {
+      "english": "Ice-face",
+      "french": "Tête de Gel"
+    }
+  },
+  {
+    "id": 267,
+    "description": "The Pokémon’s intense focus prevents it from flinching or being affected by Intimidate.",
+    "name": {
+      "english": "Inner-focus",
+      "french": "Attention"
+    }
+  },
+  {
+    "id": 268,
+    "description": "Turns the ground into Psychic Terrain when the Pokémon enters a battle.",
+    "name": {
+      "english": "Psychic-surge",
+      "french": "Créa-Psy"
+    }
+  },
+  {
+    "id": 269,
+    "description": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of every turn.",
+    "name": {
+      "english": "Hunger-switch",
+      "french": "Déclic Fringale"
+    }
+  },
+  {
+    "id": 270,
+    "description": "Removes any additional effects from the Pokémon’s moves, but increases the moves’ power.",
+    "name": {
+      "english": "Sheer-force",
+      "french": "Sans Limite"
+    }
+  },
+  {
+    "id": 271,
+    "description": "Doubles the Pokémon’s weight.",
+    "name": {
+      "english": "Heavy-metal",
+      "french": "Heavy Metal"
+    }
+  },
+  {
+    "id": 272,
+    "description": "If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage.",
+    "name": {
+      "english": "Volt-absorb",
+      "french": "Absorb Volt"
+    }
+  },
+  {
+    "id": 273,
+    "description": "Boosts the Pokémon’s Speed stat in a sandstorm.",
+    "name": {
+      "english": "Sand-rush",
+      "french": "Baigne Sable"
+    }
+  },
+  {
+    "id": 274,
+    "description": "Boosts the Pokémon’s Speed stat in snow.",
+    "name": {
+      "english": "Slush-rush",
+      "french": "Chasse-Neige"
+    }
+  },
+  {
+    "id": 275,
+    "description": "If hit by a Water-type move, the Pokémon has its HP restored instead of taking damage.",
+    "name": {
+      "english": "Water-absorb",
+      "french": "Absorb Eau"
+    }
+  },
+  {
+    "id": 276,
+    "description": "Halves the Pokémon’s weight.",
+    "name": {
+      "english": "Light-metal",
+      "french": "Light Metal"
+    }
+  },
+  {
+    "id": 277,
+    "description": "Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.",
+    "name": {
+      "english": "Stalwart",
+      "french": "Nerfs d’Acier"
+    }
+  },
+  {
+    "id": 278,
+    "description": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.",
+    "name": {
+      "english": "Clear-body",
+      "french": "Corps Sain"
+    }
+  },
+  {
+    "id": 279,
+    "description": "Boosts the Pokémon’s Attack stat the first time the Pokémon enters a battle.",
+    "name": {
+      "english": "Intrepid-sword",
+      "french": "Lame Indomptable"
+    }
+  },
+  {
+    "id": 280,
+    "description": "Boosts the Pokémon’s Defense stat the first time the Pokémon enters a battle.",
+    "name": {
+      "english": "Dauntless-shield",
+      "french": "Égide Inflexible"
+    }
+  },
+  {
+    "id": 281,
+    "description": "If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself.",
+    "name": {
+      "english": "Unseen-fist",
+      "french": "Poing Invisible"
+    }
+  },
+  {
+    "id": 282,
+    "description": "Prevents status conditions in harsh sunlight.",
+    "name": {
+      "english": "Leaf-guard",
+      "french": "Feuille Garde"
+    }
+  },
+  {
+    "id": 283,
+    "description": "Powers up Electric-type moves.",
+    "name": {
+      "english": "Transistor",
+      "french": "Transistor"
+    }
+  },
+  {
+    "id": 284,
+    "description": "Powers up Dragon-type moves.",
+    "name": {
+      "english": "Dragons-maw",
+      "french": "Dent de Dragon"
+    }
+  },
+  {
+    "id": 285,
+    "description": "When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.",
+    "name": {
+      "english": "Chilling-neigh",
+      "french": "Blanche Ruade"
+    }
+  },
+  {
+    "id": 286,
+    "description": "When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.",
+    "name": {
+      "english": "Grim-neigh",
+      "french": "Sombre Ruade"
+    }
+  }
+]
